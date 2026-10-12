@@ -2110,8 +2110,8 @@ Design Seed
 預定使用：
 
 - `assets/01_stage1_ku_candidate_template.md`
-- `assets/02_dbl_6half_design_template.md`
-- `assets/03_design_seed_template.md`
+- `assets/02_full_dbl_6half_design_template.md`
+- `assets/03_final_design_seed_template.md`
 
 Assets 只控制：
 
