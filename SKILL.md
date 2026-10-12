@@ -117,6 +117,18 @@ AI 的角色是：
 
 `references/01_disciplinary-knowledge/<domain>/`
 
+路徑必須保留領域層級。
+
+例如國語文正式來源應位於：
+
+`references/01_disciplinary-knowledge/chinese/source/`
+
+不得自行簡化、改寫或假設為：
+
+`references/01_disciplinary-knowledge/source/`
+
+若在回答中回報所讀取的 reference 路徑，必須使用實際存在的路徑，不得推測路徑。
+
 若存在以下資料，依序讀取。
 
 ## 1. `source/`
