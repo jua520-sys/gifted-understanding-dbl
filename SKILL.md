@@ -464,8 +464,8 @@ DI 的基本原則應維持：
 當對應檔案存在時，依需求讀取：
 
 - references/01_disciplinary-knowledge/
-- references/02_gifted-curriculum/
-- references/03_backward-design/
+- references/02_backward-design/
+- references/03_gifted-education/
 - references/04_differentiation/
 
 不要假設不存在的 reference 內容。
