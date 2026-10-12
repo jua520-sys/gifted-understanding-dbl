@@ -135,6 +135,6 @@
 1. 先確認是哪一個正式科目。
 2. 讀取 `00_shared_orientation.md`。
 3. 再讀該科目的 reference。
-4. 回到正式領綱核對。
+4. 回到 `source/資優特需領綱.pdf` 核對正式原文。
 5. 依學生需求決定是否跨階段選取。
 6. 再進入 Big Idea、KU、EQ、NBS、Evidence、Criteria。
